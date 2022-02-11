@@ -16,11 +16,11 @@ if (navToggle) {
 
 /*===== MENU HIDDEN =====*/
 /* VALIDANDO O IF */
-if (navClose) {
+/*if (navClose) {
   navClose.addEventListener('click', () => {
     navMenu.classList.remove('show-menu')
   })
-}
+}*/
 
 /* == REMOVER MENU MOBILE == */
 
