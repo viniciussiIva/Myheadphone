@@ -22,7 +22,7 @@
   --scroll-thumb-color-alt: hsl(var(--hue-color), 4%, 20%);
 
 
-  /* == FONTES E TIPOGRAFIA == */
+  /* == FONTES E TIPOGRAFIA 
   --body-font: 'Poppins', sans-serif;
   --biggest-font-size: 5rem;
   --bigger-font-size: 3.5rem;
@@ -32,7 +32,7 @@
   --normal-font-size: .938rem;
   --small-font-size: .813rem;
   --smaller-font-size: .75rem;
-  --text-line-height: 2rem;
+  --text-line-height: 2rem;== */
 
   /*== FONTE WEIGHT == */
   --font-medium: 500;
